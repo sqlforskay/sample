@@ -27,8 +27,8 @@
 - 在 ```project/templates/``` 路径下添加或修改静态HTML,JS,CSS文件.( **可选** )
 - 在 ```project/routes/``` 文件夹以修改 **.py** 的路由文件.( **可选** )
 - 如果需要用到Mysql数据库,在 ```sample/project/config.py``` 修改Mysql数据库的连接参数.( **可选** )
-- 如果需要用到Mysql数据库,模仿 Mysql [ORM 例子](https://github.com/sqlforskay/sample/) 创建新的 Mysql 代码.( **可选** )
-- 模仿 Routes [例子](https://github.com/sqlforskay/sample/) 创建新的 routes 代码.( **可选** )
+- 如果需要用到Mysql数据库,模仿 Mysql [ORM 例子](https://github.com/sqlforskay/flask-sample/blob/main/project/models/user.py#L13) 创建新的 Mysql 代码.( **可选** )
+- 模仿 Routes [例子](https://github.com/sqlforskay/flask-sample/blob/main/project/routes/index.py#L56) 创建新的 routes 代码.( **可选** )
 - 在linux下运行```chmod +x script.sh && ./script.sh```。在Windows上点击 **script.bat** 运行.
 
 ## 所需环境 
