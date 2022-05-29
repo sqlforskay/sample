@@ -1,0 +1,12 @@
+Flask==2.0.3
+flask_script==2.0.6
+Jinja2==3.0.1
+PyMySQL==1.0.2
+requests==2.20.0
+setuptools==56.0.0
+Werkzeug==2.0.3
+virtualenv==20.13.2
+sqlalchemy==1.1.2
+flask_sqlalchemy==2.5.1
+sqlalchemy-utils==0.38.2
+Flask-Babel==2.0.0
