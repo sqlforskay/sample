@@ -28,8 +28,8 @@ It's the **easiest** way and **fastest** way to create Flask dynamic website.
 - Change ```project/templates/``` folder to add or modify static **html**,**css**,**js** file.( **Optional** )
 - Change ```project/routes/``` folder to modify **route** file with **.py** suffix.( **Optional** )
 - If Mysql Database is needed,change ```sample/project/config.py``` file to edit Mysql config.( **Optional** )
-- If Mysql Database is needed,follow Mysql [ORM Example](https://github.com/sqlforskay/sample/) to create new Mysql code.( **Optional** )
-- Follow Routes [Example](https://github.com/sqlforskay/sample/) to create new routes code.( **Optional** )
+- If Mysql Database is needed,follow Mysql [ORM Example]([https://github.com/sqlforskay/sample/](https://github.com/sqlforskay/flask-sample/blob/main/project/config.py) to create new Mysql code.( **Optional** )
+- Follow Routes [Example]([https://github.com/sqlforskay/sample/](https://github.com/sqlforskay/flask-sample/blob/main/project/routes/index.py) to create new routes code.( **Optional** )
 - Run  ```chmod +x script.sh && ./script.sh``` on Linux. Run **script.cmd** on Windows.
 
 ## Required Environment
@@ -79,5 +79,3 @@ It's the **easiest** way and **fastest** way to create Flask dynamic website.
 ## Join us
 
 Your help is more than welcome! Even just open an [issue](https://github.com/sqlforskay/sample/issues) to ask a question may greatly help others.
-
-# flask-sample
