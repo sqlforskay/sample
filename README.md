@@ -78,4 +78,4 @@ It's the **easiest** way and **fastest** way to create Flask dynamic website.
 
 ## Join us
 
-Your help is more than welcome! Even just open an [issue](https://github.com/sqlforskay/sample/issues) to ask a question may greatly help others.
+Your help is more than welcome! Even just open an [issue](https://github.com/sqlforskay/flask-sample/issues) to ask a question may greatly help others.
