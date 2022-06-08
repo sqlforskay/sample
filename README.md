@@ -25,6 +25,7 @@ It's the **easiest** way and **fastest** way to create Flask dynamic website.
 
 ## How to Use
 
+- MVC architecture, easy to get started.
 - Change ```project/templates/``` folder to add or modify static **html**,**css**,**js** file.( **Optional** )
 - Change ```project/routes/``` folder to modify **route** file with **.py** suffix.( **Optional** )
 - If Mysql Database is needed,change ```sample/project/config.py``` file to edit Mysql config argument.( **Optional** )
