@@ -86,4 +86,4 @@
   ```
 
 ## 加入我们
-你的帮助很受欢迎！ 甚至只是打开一个[问题](https://github.com/sqlforskay/sample/issues)，提出一个问题可能会极大地帮助他人。
+你的帮助很受欢迎！ 甚至只是打开一个[问题](https://github.com/sqlforskay/sample/issues)，提供一个建议或者提出一个问题可能会极大地帮助他人。
