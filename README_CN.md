@@ -49,10 +49,6 @@
 ## 项目架构
 
   ```
-  ├── .github
-  │   ├── workflows
-  │   │   ├── codeql-analysis.yml
-  │   ├── FUNDING.yml
   ├── project
   │   ├── models
   │   │   ├── __init__.py
