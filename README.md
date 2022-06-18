@@ -41,10 +41,6 @@ It's the **easiest** way and **fastest** way to create Flask dynamic website.
 ## Project Structure
 
   ```
-  ├── .github
-  │   ├── workflows
-  │   │   ├── codeql-analysis.yml
-  │   ├── FUNDING.yml
   ├── project
   │   ├── models
   │   │   ├── __init__.py
